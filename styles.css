@@ -23,14 +23,13 @@
     text-shadow: 5px 5px rgb(191, 246, 132);
     ;
   }
-  .picture {
-    border: 5px rgb(244, 241, 237) solid;
-    border-color: rgb(192, 218, 241)
-    padding; 10px;
-    margin; 5%;
-    background-color; rgb(200, 186, 248);
-    float; center;
-    border-radius; 5%;
-  
 
+  .picture {
+    border: 5px rgb(244, 241, 237) transparent;
+    border-color: rgb(192, 218, 241)
+    padding: 5%;
+    margin: 5%;
+    background-color: rgb(200, 186, 248);
+    float: center;
+    border-radius: 5%;
   }
