@@ -9,9 +9,10 @@
   } 
 
    .headers {
+  
     color: rgb(123, 0, 255);
     text-shadow: 4px 4px rgb(196, 238, 114);
-    
+    float: 30% left;
   }
 
   span {
@@ -25,11 +26,8 @@
   }
 
   .picture {
-    border: 5px rgb(244, 241, 237) transparent;
-    border-color: rgb(192, 218, 241)
-    padding: 5%;
-    margin: 5%;
-    background-color: rgb(200, 186, 248);
-    float: center;
-    border-radius: 5%;
+    border: 2px solid #eb63b2;
+    background-color: rgb(198, 194, 190);
+    padding: 5px;
+    text-align: center;
   }
