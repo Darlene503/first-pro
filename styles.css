@@ -1,11 +1,13 @@
   .img {
    width: 100px;
-   
+   border-radius: 5%;
+   }
+
+ body { 
+  background-color: aliceblue;
+  } 
+
+   .headers {
+    color: rgb(229, 21, 21);
+    
   }
-
- 
-
-.h2 { 
-  color:rgb(75, 115, 237)
-  
-} 
