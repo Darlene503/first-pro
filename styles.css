@@ -1,17 +1,36 @@
   .img {
    width: 100px;
    border-radius: 5%;
+
    }
 
  body { 
-  background-color: aliceblue;
+  background-color: rgb(143, 240, 249);
   } 
 
    .headers {
     color: rgb(123, 0, 255);
+    text-shadow: 4px 4px rgb(196, 238, 114);
     
   }
 
   span {
     color: rgb(227, 15, 224);
+  }
+
+  .name {
+    color: rgb(136, 41, 237);
+    text-shadow: 5px 5px rgb(191, 246, 132);
+    ;
+  }
+  .picture {
+    border: 5px rgb(244, 241, 237) solid;
+    border-color: rgb(192, 218, 241)
+    padding; 10px;
+    margin; 5%;
+    background-color; rgb(200, 186, 248);
+    float; center;
+    border-radius; 5%;
+  
+
   }
