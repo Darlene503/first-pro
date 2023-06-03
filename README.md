@@ -20,4 +20,4 @@ There are no known bugs
 License
 MIT
 
-Copyright (c) 5/2023 date Darlene Duy
+Copyright (c) 5/2023 date Darlene Duyn
